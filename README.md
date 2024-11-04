@@ -37,3 +37,14 @@ In New Orleans, they rise, against all odds,
 With dreams in their hearts and strength from the gods.  
 So here’s to the Pelicans, soaring high,  
 A team of grit, of heart, of sky.  
+
+
+> ### Thank you for reading
+>
+> > The current starting 5 of the pelicans (healthy) is
+> > - Brandon Ingram
+> > - Zion Williamson
+> > - Cj McCollum
+> > - Herb Jones
+> > - Dejounte Murray
+> 
