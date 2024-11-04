@@ -23,12 +23,12 @@ Guiding the young ones, setting the pace.
 Through fast breaks and pressure, calm in the storm,  
 A rock in the chaos, the steady, the warm.  
 
-Herb Jones on defense, a shadow that stings,  
+[Herb Jones](herb.md) on defense, a shadow that stings,  
 Locking down threats, clipping their wings.  
 Quick as lightning, nimble and strong,  
 He guards the flock all season long.  
 
-Alvarado, the spark, relentless and quick,  
+[Alvarado](gta.md), the spark, relentless and quick,  
 Stealing the ball with moves so slick.  
 With heart and hustle, his spirit soars,  
 Fueling the team, igniting the floor.  
