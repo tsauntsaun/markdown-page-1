@@ -13,7 +13,7 @@ Leaping high, a thunderous sight.
 With power unmatched, his slam dunks rain,  
 A star of the swamp, through joy and through pain.  
 
-Then there's Ingram, long and lean,  
+Then there's [Ingram](bi.md), long and lean,  
 A silken shot, a scoring machine.  
 With wings stretched wide, he glides so free,  
 Painting points like art, for all to see.  
