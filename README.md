@@ -8,7 +8,7 @@ Where the rhythm of the court meets the jazz of the streets,
 The Pelicans rise, proud and bold,  
 A flock of young talent, both fierce and untold.  
 
-Zion roars, a force in flight,  
+[Zion](zion.md) roars, a force in flight,  
 Leaping high, a thunderous sight.  
 With power unmatched, his slam dunks rain,  
 A star of the swamp, through joy and through pain.  
@@ -18,7 +18,7 @@ A silken shot, a scoring machine.
 With wings stretched wide, he glides so free,  
 Painting points like art, for all to see.  
 
-CJ brings the wisdom, a veteran’s grace,  
+[CJ](cj.md) brings the wisdom, a veteran’s grace,  
 Guiding the young ones, setting the pace.  
 Through fast breaks and pressure, calm in the storm,  
 A rock in the chaos, the steady, the warm.  
