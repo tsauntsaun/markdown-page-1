@@ -1,7 +1,7 @@
 # Markdown Page Challenge
 
 **Flight of the Pelicans**  
-*"write a poem about the new orleans pelicans"* - me 
+*"write a poem about the new orleans pelicans"* - me to chat gpt
 
 Down by the Bayou, where the city hums and beats,  
 Where the rhythm of the court meets the jazz of the streets,  
